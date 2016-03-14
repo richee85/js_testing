@@ -4,7 +4,7 @@
   "description": "testing tutorial by Kyle",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js && zuul --ui tape --local 9966 -- test.js"
+    "test": "node test.js && zuul --ui tape --local 9966 -- test.js",
     "ci": "node test.js"
   },
   "author": "",
